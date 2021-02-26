@@ -1,7 +1,15 @@
-### Hi there 👋
+---
+title: CyrisXD
+date: '2020-07-14'
+spoiler: Creativity Readme Template
+categories: ["creativity", "all-profile"]
+githubUsername: 'CyrisXD'
+---
+
+![Hey there, I'm Wajahat Waheed. I'm a Data Scientist, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
-**wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
