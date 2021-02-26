@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif" alt="animated" />
 </p>
-
- <h3 align="center" >Let's Connect! 🔗 ></h3>
-<a2 href="https://www.linkedin.com/in/wajahat-waheed/"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="80" margin="10"/></a2>
-<a2 href="mailto:waheed@pnw.edu"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" width="150" margin="100"/></a2>
-
+<div align = "center">
+ <h3 align="center" >Let's Connect! 🔗 </h3>
+<a href="https://www.linkedin.com/in/wajahat-waheed/"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="80" margin="10"/></a>
+<a href="mailto:waheed@pnw.edu"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" width="50" margin="100"/></a>
+</div>
 <h3 align="center">....</h3> 
 <!--
 **wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
