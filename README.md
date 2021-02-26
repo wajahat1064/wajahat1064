@@ -1,9 +1,9 @@
 ---
-title: CyrisXD
+title: Wajahat1064
 date: '2020-07-14'
 spoiler: Creativity Readme Template
 categories: ["creativity", "all-profile"]
-githubUsername: 'CyrisXD'
+githubUsername: 'wajahat1064'
 ---
 
 ![Hey there, I'm Wajahat Waheed. I'm a Data Scientist, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
