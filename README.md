@@ -4,8 +4,8 @@
 </p>
 
  <h2 align="center" >Let's Connect! 🔗 </h2>
-<a href="https://www.linkedin.com/in/wajahat-waheed/"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="80" margin="10"/></a>
-<a href="mailto:waheed@pnw.edu"><img align="center" width="150" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/wajahat-waheed/"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="80" margin="10"/></a>
+<a href="mailto:waheed@pnw.edu"><img align="middle" width="150" src="https://img.icons8.com/clouds/100/000000/gmail.png" margin="10"/></a>
 </div>
 <h3 align="center">....</h3> 
 <!--
