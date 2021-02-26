@@ -9,7 +9,7 @@ githubUsername: 'CyrisXD'
 ![Hey there, I'm Wajahat Waheed. I'm a Data Scientist, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
-**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
