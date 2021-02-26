@@ -1,6 +1,6 @@
 <h2 align="center"> Scroll Down to check my repositories↓</h2>
 <p align="center">
-  <img src="https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio_ww.gif" alt="animated" />
+  <img src="https://github.com/wajahat1064/wajahat1064/blob/main/portfolio_ww.gif" alt="animated" />
 </p>
 <div align = "center">
  <h3 align="center" >Let's Connect! 🔗 </h3>
