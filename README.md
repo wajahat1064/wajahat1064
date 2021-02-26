@@ -2,7 +2,7 @@
 <h2 align="center"> Scroll Down to check my repositories↓</h2>
 
 ---
-<h1 align="center">![H](https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif)></h1>
+<h1 align="center">[H](https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif)></h1>
 
 <!--
 **wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
