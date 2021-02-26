@@ -1,5 +1,4 @@
 ---
-categories: ["Data Scientist", "Data Analysis", "Pattern Recognition"]
 Repositories : Scroll Down to check my repositories↓
 ---
 ![H](https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif)
