@@ -1,10 +1,11 @@
 ---
-title: Wajahat Waheed
+Call me: Wajahat
 categories: ["Data Scientist", "Data Analysis", "Pattern Recognition"]
 githubUsername: 'wajahat1064'
+LinkedIn: ![H](https://www.linkedin.com/in/wajahat-waheed/)
 ---
 
-![Hey there, I'm Wajahat Waheed. I'm a Data Scientist, a maker and infosec enthusiast. Check out my work](https://github.com/wajahat1064/wajahat1064/blob/main/Sky-full-of-Stars-Anniversay-Invitation-Template-invitation-anniversary-PixTeller%20(2).gif)
+![H](https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif)
 
 <!--
 **wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
