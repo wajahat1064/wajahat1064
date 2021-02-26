@@ -1,5 +1,5 @@
 ---
-title: Wajahat1064
+title: Wajahat Waheed
 categories: ["Data Scientist", "Data Analysis", "Pattern Recognition"]
 githubUsername: 'wajahat1064'
 ---
