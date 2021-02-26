@@ -1,6 +1,4 @@
----
 <h2 align="center"> Scroll Down to check my repositories↓</h2>
----
 <p align="center">
   <img src="https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif" alt="animated" />
 </p>
