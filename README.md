@@ -1,8 +1,6 @@
 ---
 title: Wajahat1064
-date: '2020-07-14'
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
+categories: ["Data Scientist", "Data Analysis", "Pattern Recognition"]
 githubUsername: 'wajahat1064'
 ---
 
