@@ -4,6 +4,9 @@
 ---
 ![H](https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif)
 
+<p align="center">
+  <img src="https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif" alt="animated" />
+</p>
 <!--
 **wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
