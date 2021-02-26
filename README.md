@@ -1,8 +1,6 @@
 ---
-Call me: Wajahat
 categories: ["Data Scientist", "Data Analysis", "Pattern Recognition"]
 githubUsername: 'wajahat1064'
-LinkedIn: [I'm an inline-style link](https://www.google.com)
 ---
 
 ![H](https://github.com/wajahat1064/wajahat1064/blob/main/Portfolio.gif)
