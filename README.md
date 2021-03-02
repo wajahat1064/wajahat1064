@@ -11,7 +11,7 @@
 
 <br />  
 
-![Wajahat's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![Wajahat's github stats](https://github-readme-stats.vercel.app/api?username=wajahat1064&hide=stars&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
 ![Wajahat's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahat1064&layout=compact&card_width=300&card_height=150&theme=tokyonight)
 
 <br />
