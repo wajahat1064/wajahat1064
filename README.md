@@ -8,7 +8,7 @@
 <a href="mailto:waheed@pnw.edu"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" width="80" margin="10"/></a>
 </div>
  
-<div>
+<div align = "left">
 
 ![Wajahat's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=wajahat1064&theme=tokyonight&show_icons=true)
 
