@@ -8,22 +8,14 @@
 <a href="mailto:waheed@pnw.edu"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" width="80" margin="10"/></a>
 </div>
  
-<div align = "center">
 
-![Wajahat's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=wajahat1064&theme=tokyonight&show_icons=true)
 
-![Wajahat's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahat1064&layout=compact&card_width=300&card_height=150&theme=tokyonight)
-
-</div>
+[![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahat1064&theme=tokyonight)](https://github.com/wajahat1064) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahat1064&layout=compact&theme=tokyonight)](https://github.com/wajahat1064)
 
 <p> <img src="https://komarev.com/ghpvc/?username=wajahat1064&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 <br />
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahat1064&theme=tokyonight)](https://github.com/wajahat1064) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahat1064&layout=compact&theme=tokyonight)](https://github.com/wajahat1064)
 
 <!--
 **wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
