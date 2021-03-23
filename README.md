@@ -19,7 +19,14 @@
 <p> <img src="https://komarev.com/ghpvc/?username=wajahat1064&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 <br />
 
+<img align="left" display="block" alt="chegashi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chegashi&show_icons=true&hide_border=true" />
 
+</br></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chegashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</br></br>
 
 <!--
 **wajahat1064/wajahat1064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
