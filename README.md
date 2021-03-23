@@ -9,9 +9,9 @@
 </div>
 
 
-<br />  
+<br/>  
 
-!<img align="left" display="block" alt="Wajahat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wajahat1064&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="left" display="block" alt="Wajahat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wajahat1064&theme=tokyonight&show_icons=true&hide_border=true" />
 
 </br></br>
 ![Wajahat's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahat1064&layout=compact&card_width=300&card_height=150&theme=tokyonight)
