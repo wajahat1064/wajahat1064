@@ -1,7 +1,7 @@
 <h2 align="center"> Scroll Down to check my repositories↓</h2>
-<p align="center">
-  <img src="https://github.com/wajahat1064/wajahat1064/blob/main/portfolio_ww.gif" alt="animated" />
-</p>
+##<p align="center">
+##<img src="https://github.com/wajahat1064/wajahat1064/blob/main/portfolio_ww.gif" alt="animated" />
+##</p>
 <div align = "center">
  <h3 align="center" >Let's Connect! 🔗 </h3>
 <a href="https://www.linkedin.com/in/wajahat-waheed/"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" alt="LinkedIn" width="60" margin="10"/></a>
