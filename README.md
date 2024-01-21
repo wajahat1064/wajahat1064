@@ -7,7 +7,7 @@
  
 
 
-[![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahat1064&layout=compact&theme=tokyonight)](https://github.com/wajahat1064) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahat1064&layout=compact&theme=tokyonight)](https://github.com/wajahat1064)
 
 <p> <img src="https://komarev.com/ghpvc/?username=wajahat1064&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
